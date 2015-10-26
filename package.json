@@ -1,0 +1,23 @@
+{
+  "name": "jadeTest",
+  "version": "1.0.0",
+  "description": "My own practise to run nodeJS application with jade and less",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/flux-team/jadeTest.git"
+  },
+  "keywords": [
+    "jade",
+    "less"
+  ],
+  "author": "flux-team",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/flux-team/jadeTest/issues"
+  },
+  "homepage": "https://github.com/flux-team/jadeTest"
+}

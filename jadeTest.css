@@ -1,0 +1,11 @@
+div.jadeTest {
+  background: #237449;
+  background-image: linear-gradient(to bottom, transparent 62%, black(0.3) 100%);
+  box-shadow: 2px 2px 3px black(0.3);
+}
+div.jadeTest:before {
+  background: yellow;
+}
+div.jadeTest:after {
+  background: green;
+}
